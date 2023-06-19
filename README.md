@@ -1,3 +1,5 @@
+## EX.NO:4
+## DATE:25.5.23
 # STM32 Development Board Design using Proteus
 ## Aim:
 This repository contains the design files for an STM32 Development board created using Proteus software. The aim of this project is to provide a ready-to-use development board for STM32 microcontrollers, which can be used for prototyping and testing purposes.
